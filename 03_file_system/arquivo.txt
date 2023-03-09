@@ -1,1 +1,1 @@
-algum texto
+2º escreve isso: Texto por write file
